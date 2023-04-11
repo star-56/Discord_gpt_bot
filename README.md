@@ -9,8 +9,10 @@ This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo m
 
 
 Credits: 
-A full video tutorial for this chat bot can be found [here](https://youtu.be/CB76_GDrPsE)
-For hosting it publicaly for eternity[here](https://www.youtube.com/watch?v=Gqurhm2QxA0&t=433s)
+
+a. A full video tutorial for this chat bot can be found [here](https://youtu.be/CB76_GDrPsE)
+
+b. For hosting it publicaly for eternity [here](https://www.youtube.com/watch?v=Gqurhm2QxA0&t=433s)
 
 ## How to setup
 
