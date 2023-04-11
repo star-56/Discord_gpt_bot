@@ -42,7 +42,7 @@ yarn
 
 - Using npm
 ```powershell
-npm run start
+node index.js
 ```
 
 - Using yarn
