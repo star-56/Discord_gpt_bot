@@ -19,7 +19,7 @@ b. For hosting it publicaly for eternity [here](https://www.youtube.com/watch?v=
 1. Clone the repository to the current directory
 
 ```powershell
-git clone https://github.com/notunderctrl/gpt-3.5-chat-bot.git .
+git clone https://github.com/star-56/Discord_gpt_bot.git
 ```
 
 2. Install all the dependencies
